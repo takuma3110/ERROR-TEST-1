@@ -6,7 +6,7 @@ public class RayController2 : MonoBehaviour {
 
     public GameObject player;
     Vector3 newPlayerPosition;
-    private float time;
+    private int time;
 
 	
 	void Update () {
@@ -19,7 +19,7 @@ public class RayController2 : MonoBehaviour {
                 newPlayerPosition = hit.point;
             }
         }
-        time += Time.deltaTime * 0.1f;
+	    time = Time.time * 0.1f;
         player.transform.position = Vector3.Lerp (player.transform.position, newPlayerPosition, time);
     }
 }

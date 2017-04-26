@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="815ed676-30f3-446e-843f-e914089f2bdb" name="Default" comment="" />
+    <list default="true" id="815ed676-30f3-446e-843f-e914089f2bdb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ERROR TEST 1/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ERROR TEST 1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ERROR TEST 1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/ray1/Scripts/RayController.cs" afterPath="$PROJECT_DIR$/Assets/ray1/Scripts/RayController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/ray2/Scripts/RayController2.cs" afterPath="$PROJECT_DIR$/Assets/ray2/Scripts/RayController2.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +29,14 @@
       <file leaf-file-name="RayController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ray1/Scripts/RayController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding>
-                <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-                <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-                <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-                <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-                <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-                <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+                <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+                <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+                <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+                <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+                <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,17 +48,20 @@
             <state relative-caret-position="345">
               <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
-                <marker date="1493178594000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1493178594000" expanded="true" signature="124:688" ph="{...}" />
-                <marker date="1493178594000" expanded="true" signature="231:686" ph="{...}" />
-                <marker date="1493178594000" expanded="true" signature="273:538" ph="{...}" />
-                <marker date="1493178594000" expanded="true" signature="466:528" ph="{...}" />
+                <marker date="1493179711000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1493179711000" expanded="true" signature="124:677" ph="{...}" />
+                <marker date="1493179711000" expanded="true" signature="229:675" ph="{...}" />
+                <marker date="1493179711000" expanded="true" signature="271:536" ph="{...}" />
+                <marker date="1493179711000" expanded="true" signature="464:526" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,6 +88,9 @@
     <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="915" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -177,12 +187,12 @@
       <workItem from="1493177921323" duration="29000" />
       <workItem from="1493177967113" duration="209000" />
       <workItem from="1493178208394" duration="28000" />
-      <workItem from="1493178253934" duration="288000" />
+      <workItem from="1493178253934" duration="1191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1135000" />
+    <option name="totallyTimeSpent" value="2038000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,7 +212,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -237,12 +247,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -252,12 +261,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -267,12 +275,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -282,12 +289,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -297,12 +303,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -319,12 +324,11 @@
         <state relative-caret-position="45">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -338,15 +342,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ray1/Scripts/RayController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
-            <marker date="1493177858000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1493177858000" expanded="true" signature="123:578" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="173:180" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="202:576" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="243:570" ph="{...}" />
-            <marker date="1493177858000" expanded="true" signature="394:560" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1493179629000" expanded="true" signature="123:552" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="145:550" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="186:544" ph="{...}" />
+            <marker date="1493179629000" expanded="true" signature="377:534" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -356,11 +359,11 @@
         <state relative-caret-position="345">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <marker date="1493178594000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1493178594000" expanded="true" signature="124:688" ph="{...}" />
-            <marker date="1493178594000" expanded="true" signature="231:686" ph="{...}" />
-            <marker date="1493178594000" expanded="true" signature="273:538" ph="{...}" />
-            <marker date="1493178594000" expanded="true" signature="466:528" ph="{...}" />
+            <marker date="1493179711000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1493179711000" expanded="true" signature="124:677" ph="{...}" />
+            <marker date="1493179711000" expanded="true" signature="229:675" ph="{...}" />
+            <marker date="1493179711000" expanded="true" signature="271:536" ph="{...}" />
+            <marker date="1493179711000" expanded="true" signature="464:526" ph="{...}" />
           </folding>
         </state>
       </provider>
